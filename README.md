@@ -3,6 +3,8 @@ the same extension, but a few changes have been made for partial compatibility w
 to install, just run the script INSTALL.sh after enabling the script execution permission:
 
 ```bash
+git clone https://github.com/SharaGGa/Animation-Tweaks-fixed-for-gnome-above42.git
+cd Animation-Tweaks-fixed-for-gnome-above42
 chmod +x INSTALL.sh
 ./INSTALL.sh
 ```
